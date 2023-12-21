@@ -27,7 +27,7 @@ The thermal storage is modeled by a cylinder with length L and diameter D and it
 
 ![image](https://github.com/ybicke/Physics-Informed-Neural-Networks/assets/80389002/0e30b948-09ce-4e9a-9a35-39faa128c179)
 
-with ρ being the density of the phases, C the specific heat, λ the diffusivity, ε the solid porosity, u_f
+with ρ being the density of the phases, C the specific heat, λ the diffusivity, ε the solid porosity, uf
 the fluid velocity entering the thermal storage and hv the heat exchange coefficient between solid
 and fluid. The fluid velocity is assumed to be uniform along the cylinder and varying only in time:
 uf = u during charging, u = 0 during idle and uf = −u during discharging, with u being a positive
