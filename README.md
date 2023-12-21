@@ -7,7 +7,7 @@ related to the preliminary design of a thermal energy storage. In the following 
 - PINNs for PDE-Constrained Inverse Problem
 - FNO for Time Series Forecasting
 
-The device is used in solar power plants to store thermal energy during the charging phase and
+The thermal energy device is used in solar power plants to store thermal energy during the charging phase and
 release it for production of electricity during the discharging phase. The thermal energy is stored due to the interaction of a fluid and a solid phase. During the charging state the fluid is injected at high temperature from one end of the storage and heats the solid up. In contrast, during the discharging phase the reverse process occurs: cold fluid flows from the opposite end and absorbs heat from the solid. Between charging and discharging idle phases take place, where no fluid enters the thermal storage.
 
 Therefore, at any instant of time the thermal storage can be in one of the following states:
